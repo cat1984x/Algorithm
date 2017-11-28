@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1511881381 source:d:\github\algorithm\aha_algorithms\tianchai\project\test\main.c
+	<stdio.h>
+	<stdlib.h>
+
